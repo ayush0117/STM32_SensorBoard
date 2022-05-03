@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name BMI088)(type Legacy)(uri "/Users/Ayush1997/Downloads/BMI088 (1)/BMI088.mod")(options "")(descr ""))
+  (lib (name 19-337_R6GHBHC-A01_2T)(type Legacy)(uri /Users/Ayush1997/Downloads/19-337_R6GHBHC-A01_2T/19-337_R6GHBHC-A01_2T.mod)(options "")(descr ""))
+  (lib (name MP2359DJ-LF-Z)(type Legacy)(uri /Users/Ayush1997/Downloads/KICAD:Altium/LIB_MP2359DJ-LF-Z/MP2359DJ-LF-Z/KiCad/MP2359DJ-LF-Z.mod)(options "")(descr ""))
+  (lib (name UJ2-MIBH-4-MSMT)(type Legacy)(uri /Users/Ayush1997/Downloads/UJ2-MIBH-4-MSMT/UJ2-MIBH-4-MSMT.mod)(options "")(descr ""))
+  (lib (name USB3076-XX-X_REVC)(type Legacy)(uri /Users/Ayush1997/Downloads/USB3076-XX-X_REVC/USB3076-XX-X_REVC.mod)(options "")(descr ""))
+  (lib (name 10103592-0001LF)(type Legacy)(uri /Users/Ayush1997/Downloads/10103592-0001LF/10103592-0001LF.mod)(options "")(descr ""))
+)
